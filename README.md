@@ -1,6 +1,6 @@
 # Google Sheets Budget & Expense Management System
 
-<img src="![MonthlyDashboard](https://github.com/user-attachments/assets/d046ed64-96a5-432b-900c-1c121a469182)" width="800"/>
+<img src="images/MonthlyDashboard.jpeg" width="700"/>
 
 ## About This Project
 
@@ -49,18 +49,14 @@ BRAKUJE
 ## Screenshots
 
 ### Monthly Dashboard (Main View)
-<img src="![MonthlyDashboard](https://github.com/user-attachments/assets/bc705f86-6cc5-498f-9689-0c1c1bf45c43)"
- width="700"/>
+<img src="images/MonthlyDashboard.jpeg" width="700"/>
 
 ### Annual Dashboard (Trend Analysis)
-<img src="![AnnualDashboard](https://github.com/user-attachments/assets/b8e1ec54-83e5-4a09-8e7d-02a9e7a2b9e1)"
- width="700"/>
+<img src="images/AnnualDashboard.jpeg" width="700"/>
 
 ### Daily View (Phone Shortcut) & Day Finder
-<img src="![DayView](https://github.com/user-attachments/assets/fcb1939b-8f50-4463-a161-eaa51f7bfe4d)"
- width="700"/>
- <img src="![DayFinder](https://github.com/user-attachments/assets/5fc6c259-3a17-44ed-84a4-d0ee2ab5a46b)"
- width="700"/>
+<img src="images/DayView.jpeg" width="700"/>
+<img src="images/DayFinder.jpeg" width="700"/>
 
 ---
 
