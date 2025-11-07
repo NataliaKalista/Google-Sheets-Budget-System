@@ -1,6 +1,3 @@
-# Google-Sheets-Budget-System
-Automated financial tracker (Google Sheets &amp; Forms) with dynamic dashboards, custom percentage splits, and phone-optimized daily views.
-
 # Google Sheets Budget & Expense Management System
 
 <img src="![MonthlyDashboard](https://github.com/user-attachments/assets/d046ed64-96a5-432b-900c-1c121a469182)" width="800"/>
