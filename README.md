@@ -1,6 +1,6 @@
 # Google Sheets Budget & Expense Management System
 
-<img src="images/MonthlyDashboard.jpeg" width="700"/>
+<img src="images/MonthlyDashboard.jpeg" width="900"/>
 
 ## About This Project
 
@@ -49,14 +49,14 @@ BRAKUJE
 ## Screenshots
 
 ### Monthly Dashboard (Main View)
-<img src="images/MonthlyDashboard.jpeg" width="700"/>
+<img src="images/MonthlyDashboard.jpeg" width="900"/>
 
 ### Annual Dashboard (Trend Analysis)
-<img src="images/AnnualDashboard.jpeg" width="700"/>
+<img src="images/AnnualDashboard.jpeg" width="900"/>
 
 ### Daily View (Phone Shortcut) & Day Finder
-<img src="images/DayView.jpeg" width="700"/>
-<img src="images/DayFinder.jpeg" width="700"/>
+<img src="images/DayView.jpeg" width="400"/>
+<img src="images/DayFinder.jpeg" width="800"/>
 
 ---
 
