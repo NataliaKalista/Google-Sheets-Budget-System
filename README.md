@@ -10,6 +10,13 @@ The system is designed not just for tracking, but for advanced settlement logic,
 
 ---
 
+## Live Links
+
+* **[View the LIVE English Template (View-Only)](https://docs.google.com/spreadsheets/d/1aysc-xIUi3Xp7zyUFXg2SKp_hGLKmCBxVI6fM1Gf66A/edit?usp=sharing)**
+* **[View the LIVE Polish Template (View-Only)](https://docs.google.com/spreadsheets/d/1JNQPLIjrv3KQSINDWVn4Xvu99-NEaKsMITFb2p0hGvs/edit?usp=sharing)**
+
+---
+
 ## Core Features
 
 * **Automated Data Pipeline:** A Google Form acts as a mobile app for quick data entry. Submissions are instantly sent to a raw data sheet (`FormResponses`), which is then automatically cleaned, transformed, and unified by a master `QUERY` function into a `CleanData` database.
@@ -57,10 +64,3 @@ BRAKUJE
 ### Daily View (Phone Shortcut) & Day Finder
 <img src="images/DayViews.jpg" width="1000"/>
 <img src="images/DayFinder.jpg" width="1000"/>
-
----
-
-## Live Links
-
-* **[View the LIVE English Template (View-Only)](https://docs.google.com/spreadsheets/d/1aysc-xIUi3Xp7zyUFXg2SKp_hGLKmCBxVI6fM1Gf66A/edit?usp=sharing)**
-* **[View the LIVE Polish Template (View-Only)](https://docs.google.com/spreadsheets/d/1JNQPLIjrv3KQSINDWVn4Xvu99-NEaKsMITFb2p0hGvs/edit?usp=sharing)**
