@@ -1,6 +1,14 @@
 # Google Sheets Budget & Expense Management System
 
-<img src="images/MonthlyDashboard.jpg" width="1000"/>
+---
+
+## Project in Action (Demo)
+
+Here is the system's data pipeline in action: data is entered in the Form and instantly updates the Monthly Dashboard.
+
+BRAKUJE
+
+---
 
 ## About This Project
 
@@ -43,15 +51,6 @@ This project showcases skills beyond simple spreadsheet functions:
 * **System Architecture:** Designing a multi-sheet system where data flows logically from entry (Form) -> storage (`Odpowiedzi`) -> transformation (`CzysteDane`) -> configuration (`Ustawienia`) -> presentation (`Dashboard`).
 * **UX/UI Design:** Applying a strict Style Guide (custom color palette, typography, hidden gridlines) and designing user-centric tools (like the "Daily View" and the "Day Finder") to solve specific user problems.
 
----
-
-## Project in Action (Demo)
-
-Here is the system's data pipeline in action: data is entered in the Form and instantly updates the Monthly Dashboard.
-
-BRAKUJE
-
----
 
 ## Screenshots
 
