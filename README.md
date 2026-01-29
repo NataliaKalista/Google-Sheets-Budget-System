@@ -6,7 +6,7 @@
 
 Here is the system's data pipeline in action: data is entered in the Form and instantly updates the Monthly Dashboard.
 
-BRAKUJE
+WILL BE SOON..
 
 ---
 
