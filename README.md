@@ -8,7 +8,7 @@ Here is the system's data pipeline in action: data is entered in the Form and in
 
 
 
-[Full demo](images/FinancialBudgetingSystem.mp4)
+[![Watch demo](https://img.youtube.com/vi/C1cbTJrx_Qg/0.jpg)](https://youtu.be/C1cbTJrx_Qg)
 
 ---
 
